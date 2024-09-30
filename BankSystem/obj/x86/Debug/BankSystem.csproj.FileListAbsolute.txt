@@ -1,0 +1,15 @@
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\bin\Release\BankSystem.exe
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\bin\Release\BankSystem.pdb
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.Contact.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.PaymentService.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.TransferToEmail.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.Main.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.MyAccount.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.PayMent.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.Properties.Resources.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.Registration.resources
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.csproj.GenerateResource.cache
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.exe
+C:\Users\aiswaryajayaraman\source\repos\FlauiDemo\BankSystem\obj\x86\Debug\BankSystem.pdb
